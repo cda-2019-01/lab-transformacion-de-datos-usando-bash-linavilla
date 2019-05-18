@@ -3,7 +3,7 @@ LAB: Transformación de archivos con Bash
 
 
 Usando los archivos `data1.csv`, `data2.csv`, `data3.csv`, escriba en el
-archivo `script.sh`  un programa en Bash que imprima en pantalla
+archivo `script.sh`  un programa en Bash que imprima en pantalla 
 la siguiente salida por linea:
 
 * El nombre del archivo.
